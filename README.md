@@ -9,7 +9,7 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 
 ### 🧩 Vista previa del proyecto
 
-![Vista previa del componente](./images/screenshot.png)
+![Vista previa del componente](./public/images/screenshot.png)
 
 ---
 
@@ -73,7 +73,7 @@ Algunos aspectos que podría mejorar en futuros proyectos son:
 - **Nombre completo: Juna Jaqueline Zavala Guzman**   
 - **Carrera:TIC´S**  
 - **Grupo:6A**  
-- **Correo institucional: 23151266@aguascalientes.tecnm,mx**  
+- **Correo institucional: 23151266@aguascalientes.tecnm.mx**  
 
 ---
 

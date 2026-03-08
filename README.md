@@ -16,7 +16,7 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 ### 🔗 Enlaces del proyecto
 
 - **Repositorio en GitHub:** https://github.com/Jaqui0306/QR_Code_Component
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Sitio desplegado (opcional):** https://qr-code-component-ivory-sigma.vercel.app/
 
 ---
 
